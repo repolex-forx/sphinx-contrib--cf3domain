@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "cf3domain",
+  "versions": [
+    {
+      "commit": "6b0797ba829964787cc308debc8ac68ad2bff505",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:41:25.127533+00:00"
+    }
+  ]
+}
