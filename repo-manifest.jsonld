@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/cf3domain/commit/6b0797ba829964787cc308debc8ac68ad2bff505",
       "git:hexsha": "6b0797ba829964787cc308debc8ac68ad2bff505",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
